@@ -1,0 +1,13 @@
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\Shop.exe
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\EntityFramework.dll
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\EntityFramework.xml
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\obj\Debug\Shop.exe
+c:\users\тынышбаева.corp\source\repos\Shop\Shop\obj\Debug\Shop.pdb
